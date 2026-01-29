@@ -1,7 +1,7 @@
-# 🎬 MiVie Data Analysis Using Python
+# 🎬 Movie Data Analysis Using Python
 
 ## 📌 Project Overview
-The MiVie Data Analysis project focuses on analyzing structured datasets to identify meaningful patterns, usage trends, and key performance metrics.  
+The Movie Data Analysis project focuses on analyzing structured datasets to identify meaningful patterns, usage trends, and key performance metrics.  
 The objective of this project is to transform raw data into valuable insights that support data-driven decision-making.
 
 The analysis was carried out using **Python** with a strong emphasis on **data cleaning, exploratory data analysis (EDA), and visualization**.
